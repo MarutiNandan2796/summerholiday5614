@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Basic HTML5 Page</title>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    <p>This is a simple paragraph on my basic HTML5 page.</p>
+    <img src="https://i.pinimg.com/originals/43/64/92/43649286cf4603ffa0619b7d41f78067.jpg" alt="A scenic landscape with mountains and a lake">
+</body>
+</html>
